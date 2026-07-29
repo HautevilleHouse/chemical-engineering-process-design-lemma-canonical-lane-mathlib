@@ -1,0 +1,14 @@
+import ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean.ThermodynamicProcessPackage
+import ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean.ReactionKineticsPackage
+import ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean.MolecularOrbitalPackage
+import ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean.ProcessControlPackage
+import ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean.ChemicalEquilibriumPackage
+
+-- Root file for the Chemical Engineering Process Design Lemma package.
+namespace HautevilleHouse
+namespace ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean
+
+-- No additional definitions needed; imported packages suffice.
+
+end ChemicalEngineeringProcessDesignLemmaCanonicalLaneLean
+end HautevilleHouse
